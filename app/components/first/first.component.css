@@ -1,0 +1,25 @@
+
+.a{
+    background-color: rgba(47,47,47,0.98);
+    height: 50px;
+}
+.b{color: #ddd;
+    float: left;
+    width: 100px;
+    line-height: 50px;
+    font-size: 24px;
+    cursor: pointer;/*移到元素上是一只手*/
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-left: 390px;
+}
+.c{
+   float: right;
+   width: 360px;
+   height:24px;
+   margin-top: 12px;
+   text-indent: 10px; /*文本块中文本的缩进*/
+   border-radius: 5px;
+   box-shadow: 0 1px 0 rgba(255,255,255,0.24), 0 1px 6px rgba(0,0,0,0.45) inset;
+   border: none;
+  margin-right: 400px;
+}
