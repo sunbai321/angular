@@ -1,0 +1,14 @@
+
+<div class="content">
+  <div class="goods" *ngFor="let item of arr;let idx = index;">
+    <img src="{{item.goodsListImg}}" alt="" class="img">
+      <p class="pirce">
+       ¥ {{item.price}}
+      
+      </p>
+      <p class="title">
+       {{item.goodsName}}
+       
+      </p>
+   </div>
+</div>

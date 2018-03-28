@@ -1,0 +1,15 @@
+.main
+{
+    margin:0 auto;
+    margin-left: 300px;
+}
+a:link{
+    text-decoration:none; 
+   }
+   
+   a{
+    background-color: pink; 
+    color: white;
+    text-align: 5px;
+    padding:5px;
+}
